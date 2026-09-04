@@ -72,3 +72,19 @@ financial-data-governance/
 ### Dönemsel Veri Kalitesi Analizi
 
 ![Dönemsel Veri Kalitesi Analizi](screenshots/quality-trend.png)
+
+## Nasıl Çalıştırılır?
+
+Projeyi kendi bilgisayarınızda çalıştırmak için öncelikle gerekli Python kütüphanelerini yükleyin:
+
+```bash
+pip install -r requirements.txt
+```
+
+Ardından Streamlit uygulamasını başlatın:
+
+```bash
+streamlit run app.py
+```
+
+Uygulama çalıştırıldığında kullanıcı arayüzü tarayıcı üzerinden açılacaktır.
