@@ -73,6 +73,10 @@ financial-data-governance/
 
 ![Dönemsel Veri Kalitesi Analizi](screenshots/quality-trend.png)
 
+### AI Veri Asistanı
+
+![AI Veri Asistanı](screenshots/ai-assistant.png)
+
 ## Nasıl Çalıştırılır?
 
 Projeyi kendi bilgisayarınızda çalıştırmak için öncelikle gerekli Python kütüphanelerini yükleyin:
